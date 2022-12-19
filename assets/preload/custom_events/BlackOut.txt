@@ -1,0 +1,2 @@
+Blackout Characters and BG
+Set Value 1 true or false
